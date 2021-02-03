@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**chancollin5101/chancollin5101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔨 Looking for Summer 2021 SWE internships
@@ -16,7 +13,5 @@ print("hello world!")
 ```
 </p>
 </details>
-
 - ⚡ Fun fact: I :green_heart: :dog:
--->
 :octocat: Languages: Swift, Java, C, Python, and JavaScript
