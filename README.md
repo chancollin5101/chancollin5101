@@ -7,4 +7,4 @@ My name is Collin Chan. I have past experiences in iOS and web development and a
 - 📚 Computer Science at the University of Toronto
 - ⚡ Fun fact: I :green_heart: :dog:
 
-:octocat: Languages: Swift, Java, C, Python, and JavaScript
+:octocat: Languages: C, Swift, Ruby, Java, Python, and JavaScript
